@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "SXuQXTAXex8hm6zdOrGX6LzJG4IUQerQVVsXgqpo4IQ=",
+  "Source": "StockCheckBackend",
+  "BasePath": "_content/StockCheckBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StockCheckBackend/wwwroot",
+      "Source": "StockCheckBackend",
+      "ContentRoot": "/home/andrei/StockCheckBackend/StockCheckBackend/wwwroot/",
+      "BasePath": "_content/StockCheckBackend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/andrei/StockCheckBackend/StockCheckBackend/wwwroot/index.html",
+      "SourceId": "StockCheckBackend",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/andrei/StockCheckBackend/StockCheckBackend/wwwroot/",
+      "BasePath": "_content/StockCheckBackend",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}

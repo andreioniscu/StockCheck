@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/home/andrei/StockCheckBackend/StockCheckBackend/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.StockCheckBackend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.StockCheckBackend.props",
+      "PackagePath": "build\\StockCheckBackend.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.StockCheckBackend.props",
+      "PackagePath": "buildMultiTargeting\\StockCheckBackend.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.StockCheckBackend.props",
+      "PackagePath": "buildTransitive\\StockCheckBackend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
