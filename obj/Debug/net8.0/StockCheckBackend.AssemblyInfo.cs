@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StockCheckBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51f792905a1cb31e3b436c3b2da5df1f09ba8a70")]
 [assembly: System.Reflection.AssemblyProductAttribute("StockCheckBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StockCheckBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
