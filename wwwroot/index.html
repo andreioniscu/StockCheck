@@ -185,7 +185,7 @@
         statusEl.innerHTML = '<span class="dot"></span><span>Se incarca...</span>';
 
         try {   
-          const response = await fetch(`http://localhost:5265/stock?p=${encodeURIComponent(param)}`);
+          const response = await fetch(`/stock?p=${encodeURIComponent(param)}`);
           if (!response.ok) {
             throw new Error(`Eroare ${response.status}`);
           }
